@@ -3,6 +3,7 @@ venv/
 .pylintrc
 __pycache__/
 venv
+templates-for-Django-4-course-Home-main
 
 #ide stuff
 .vscode
@@ -11,4 +12,5 @@ venv
 #django stuff
 db.sqlite3
 media/
-templates-for-Django-4-course-Home-main
+
+
