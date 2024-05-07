@@ -1,0 +1,14 @@
+#python stuff
+venv/
+.pylintrc
+__pycache__/
+venv
+
+#ide stuff
+.vscode
+.idea
+
+#django stuff
+db.sqlite3
+media/
+templates-for-Django-4-course-Home-main
